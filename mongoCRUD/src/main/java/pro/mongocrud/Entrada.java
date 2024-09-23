@@ -35,6 +35,6 @@ public class Entrada {
 
     public void setTrabalha(boolean trabalha) {
         this.trabalha = trabalha;
+        System.out.println("Jose é bunda");
     }
-   
 }
